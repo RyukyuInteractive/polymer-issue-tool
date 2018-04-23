@@ -1,0 +1,12 @@
+{
+  "description": "Polymer Issue Tool",
+  "manifest_version": 1,
+  "name": "Polymer Issue Tool",
+  "short_name": "Issue Tool",
+  "version": "0.1",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": []
+}
